@@ -6,4 +6,4 @@
  - Sistem responsive
  - Profissional
 
-[](capa.png)
+![](capa.png)
